@@ -1,0 +1,21 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven / Build
+target/
+*.class
+
+# Spring Boot
+*.jar
+*.war
+
+# H2 Database files
+*.db
+*.mv.db
+*.trace.db
+
+# OS
+.DS_Store
+Thumbs.db
