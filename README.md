@@ -6,23 +6,23 @@ A full-stack podcast playlist manager built with **Java Spring Boot**, **Thymele
 
 ---
 
-## ✨ Features
+## Features
 
-- ➕ **Add** podcasts with title, year of release, star rating, and a direct link
-- ✏️ **Edit** any existing podcast's details
-- 🗑️ **Delete** podcasts you no longer want to track
-- 🎛️ **Multi-streaming service support** — attach multiple services (Spotify, Apple, YouTube, etc.) to a single podcast
-- 🔃 **Sort** your podcast list by:
-  - 📅 Year (ascending)
-  - ⭐ Rating (descending)
-  - ⭐ + 🔤 Rating & Title combined
-  - 🔄 Default order
-- 💾 **H2 in-memory database** with pre-loaded seed data (3 podcasts ready to go on startup)
-- 🖥️ **Single-page Thymeleaf UI** — clean, intuitive, no page jumping
+- **Add** podcasts with title, year of release, star rating, and a direct link
+- **Edit** any existing podcast's details
+- **Delete** podcasts you no longer want to track
+- **Multi-streaming service support** — attach multiple services (Spotify, Apple, YouTube, etc.) to a single podcast
+- **Sort** your podcast list by:
+  - Year (ascending)
+  - Rating (descending)
+  - Rating & Title combined
+  - Default order
+- **H2 in-memory database** with pre-loaded seed data (3 podcasts ready to go on startup)
+- **Single-page Thymeleaf UI** — clean, intuitive, no page jumping
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -35,7 +35,7 @@ A full-stack podcast playlist manager built with **Java Spring Boot**, **Thymele
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 podcast-tracker/
@@ -57,7 +57,7 @@ podcast-tracker/
 
 ---
 
-## 🚀 How to Open & Run in Eclipse
+## How to Open & Run in Eclipse
 
 ### Prerequisites
 Make sure you have the following installed:
@@ -118,7 +118,7 @@ You'll see the Podcast Playlists page with seed data already loaded! 🎉
 
 ---
 
-## 🗄️ H2 Database Console (Optional)
+## H2 Database Console (Optional)
 
 You can inspect the database directly in your browser while the app is running:
 
@@ -134,7 +134,7 @@ http://localhost:8080/h2-console
 
 ---
 
-## 🌱 Seed Data
+## Seed Data
 
 On startup, the app automatically loads **4 podcasts** so you're never staring at an empty screen:
 
