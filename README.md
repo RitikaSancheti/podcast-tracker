@@ -6,7 +6,7 @@ A full-stack podcast playlist manager built with **Java Spring Boot**, **Thymele
 
 ---
 
-## Features
+## Features 
 
 - **Add** podcasts with title, year of release, star rating, and a direct link
 - **Edit** any existing podcast's details
